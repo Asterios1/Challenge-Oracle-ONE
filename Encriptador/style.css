@@ -30,9 +30,9 @@ main{
     text-transform: lowercase;
 }
 ::placeholder { color: #0A3871; }
-  .text-area:focus {
-      outline: none;
-    }
+.text-area:focus {
+    outline: none;
+}
 
 .mensaje{
     height: 630px;
